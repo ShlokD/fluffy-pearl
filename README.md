@@ -1,3 +1,5 @@
-# Vue3 Template
+# Speech Reader
 
-Vue3 + Typescript + Eslint + Prettier + TailwindCSS
+Speech reader app using Web SpeechSynthesis API
+
+Demo: https://fluffy-pearl.surge.sh/
