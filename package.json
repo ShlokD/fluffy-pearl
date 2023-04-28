@@ -1,5 +1,5 @@
 {
-  "name": "crispy-curry",
+  "name": "fluffy-pearl",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,6 +11,7 @@
     "format": "prettier .  --write"
   },
   "dependencies": {
+    "idb-keyval": "^6.2.0",
     "vue": "^3.2.47"
   },
   "devDependencies": {
